@@ -16,5 +16,5 @@
 - 🏢 [Advanced Python Script Tool](https://github.com/najeebra35/Python-Advance-Scipts)
 
 ## 📊 GitHub Stats
-- ![Najeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=najeebra35&show_icons=true&theme=tokyonight&cache_seconds=1800)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=najeebra35&theme=tokyonight)](https://git.io/streak-stats)
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najeebra35&layout=compact&theme=dark)
