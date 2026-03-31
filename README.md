@@ -18,3 +18,6 @@
 ## 📊 GitHub Stats
 - [![GitHub Streak](https://streak-stats.demolab.com?user=najeebra35&theme=tokyonight)](https://git.io/streak-stats)
 - ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najeebra35&theme=tokyonight)
+
+## 🛠️ My Skills
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgresql&theme=dark)](https://skillicons.dev)
