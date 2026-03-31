@@ -21,3 +21,5 @@
 
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgresql&theme=dark)](https://skillicons.dev)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=najeebra35.najeebra35)
