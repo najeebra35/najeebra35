@@ -23,3 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgresql&theme=dark)](https://skillicons.dev)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=najeebra35.najeebra35)
+
+## 📫 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:najeebra35@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
