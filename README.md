@@ -1,8 +1,10 @@
 # Hi, I'm Najeeb 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Django+%26+Python+Developer;Building+Web+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 🎯 Django & Python Developer
 🌍 Based in UAE
 💼 Building web applications with Django
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Django+%26+Python+Developer;Building+Web+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
