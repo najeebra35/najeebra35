@@ -1,5 +1,5 @@
 # Hi, I'm Najeeb 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Django+%26+Python+Developer;Building+Web+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 🎯 Django & Python Developer
 🌍 Based in UAE
 💼 Building web applications with Django
@@ -28,6 +28,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:najeebra35@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/najeeb-rahman-870654248)
 [![Instagram](https://img.shields.io/badge/Instagram-F5114D?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/najeeb.white_hat)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Django+%26+Python+Developer;Building+Web+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 
