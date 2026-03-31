@@ -13,6 +13,7 @@
 
 ## 📌 Featured Projects
 - 🏢 [Django Employee Attendance System](https://github.com/najeebra35/Django-employee-attendance-system)
+- 🏢 [Django Employee Attendance System](https://github.com/najeebra35/Python-Advance-Scipts)
 
 ## 📊 GitHub Stats
 ![Najeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=najeebra35&show_icons=true&theme=dark)
