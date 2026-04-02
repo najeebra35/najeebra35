@@ -106,11 +106,11 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=najeebra35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=najeebra35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
