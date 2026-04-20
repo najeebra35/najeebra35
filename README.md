@@ -1,29 +1,15 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="160" fill="#0d1117" rx="8"/>
-  <line x1="0" y1="140" x2="680" y2="140" stroke="#21262d" stroke-width="0.5"/>
-  <rect x="0" y="0" width="4" height="160" fill="#378ADD"/>
-  <rect x="676" y="0" width="4" height="160" fill="#1D9E75"/>
-  <line x1="40" y1="20" x2="40" y2="130" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
-  <line x1="640" y1="20" x2="640" y2="130" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
-  <circle cx="620" cy="36" r="28" fill="none" stroke="#1D9E75" stroke-width="0.5" opacity="0.5"/>
-  <circle cx="620" cy="36" r="18" fill="none" stroke="#1D9E75" stroke-width="0.5" opacity="0.4"/>
-  <circle cx="620" cy="36" r="8" fill="#1D9E75" opacity="0.2"/>
-  <circle cx="60" cy="124" r="16" fill="none" stroke="#378ADD" stroke-width="0.5" opacity="0.4"/>
-  <circle cx="60" cy="124" r="6" fill="#378ADD" opacity="0.2"/>
-  <text x="64" y="70" font-family="monospace" font-size="11" fill="#378ADD" opacity="0.6">{ django &amp; python }</text>
-  <text x="64" y="102" font-family="sans-serif" font-size="36" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Najeeb Rahman</text>
-  <text x="66" y="128" font-family="sans-serif" font-size="13" fill="#8b949e">Backend Developer · Django · REST APIs · UAE 🇦🇪</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=6,11,20&height=180&section=header&text=Najeeb%20Rahman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Django%20and%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Najeeb+👋;Django+%26+Python+Developer;Building+Scalable+Web+Applications;Backend+Enthusiast+%7C+Problem+Solver;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=najeebra35.najeebra35&left_color=royalblue&right_color=36BCF7" />
   <img src="https://img.shields.io/github/followers/najeebra35?label=Followers&style=flat&color=36BCF7&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-36BCF7?style=flat&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Collabs-1D9E75?style=flat&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Lives-UAE%20🇦🇪-36BCF7?style=flat&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Django-36BCF7?style=flat&labelColor=1a1b27" />
 </p>
 
 </div>
@@ -31,7 +17,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 ```python
 class NajeebRahman:
     def __init__(self):
@@ -40,11 +25,10 @@ class NajeebRahman:
         self.location   = "UAE 🇦🇪"
         self.email      = "najeebra35@gmail.com"
         self.languages  = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Django", "Django REST Framework", "Bootstrap"]
-        self.databases  = ["PostgreSQL", "MySQL", "SQLite"]
-        self.tools      = ["Git", "GitHub", "VS Code", "Postman", "Linux"]
+        self.frameworks = ["Django", "Bootstrap"]
+        self.databases  = ["MySQL", "SQLite"]
+        self.tools      = ["Git", "GitHub", "VS Code"]
         self.focus      = "Building clean, efficient backend systems"
-        self.currently  = "Adding JWT auth + Docker to my attendance system"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something great together 🚀")
@@ -65,11 +49,28 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 👅 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap,postgresql,mysql,sqlite,git,github,vscode,linux,postman&theme=dark&perline=7)](https://skillicons.dev)
+### 🧩 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -77,11 +78,11 @@ me.say_hi()
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 💡 Impact | 🛠️ Stack | 🔗 |
-|:-----------|:--------------|:----------|:---------|:---|
-| 🏢 **Django Employee Attendance System** | Full-featured system to manage employee bio data, documents & attendance tracking | Replaces manual HR tracking for 50+ employee records, cutting reporting time significantly | `Django` `Python` `PostgreSQL` `HTML` | [View →](https://github.com/najeebra35/Django-employee-attendance-system) |
-| 💼 **Al Hafiz Portfolio** | Professional company portfolio web application with clean UI | Delivered a production-ready client-facing site with zero third-party CMS dependency | `Django` `HTML` `CSS` `Bootstrap` | [View →](https://github.com/najeebra35/django-alhafiz-portfolio) |
-| 🐍 **Python Advance Scripts** | Curated collection of advanced Python scripts for automation & utilities | Reusable scripts that cut repetitive dev tasks — file handling, data processing & more | `Python` | [View →](https://github.com/najeebra35/Python-Advance-Scipts) |
+| 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 |
+|:-----------|:--------------|:--------------|:---|
+| 🏢 **Django Employee Attendance System** | Full-featured system to manage employee bio data, documents & attendance tracking | `Django` `Python` `HTML` `PostgreSQL` | [View →](https://github.com/najeebra35/Django-employee-attendance-system) |
+| 💼 **Al Hafiz Portfolio** | Professional company portfolio web application with clean UI | `Django` `HTML` `CSS` `Bootstrap` | [View →](https://github.com/najeebra35/django-alhafiz-portfolio) |
+| 🐍 **Python Advance Scripts** | Curated collection of advanced Python scripts for automation & utilities | `Python` | [View →](https://github.com/najeebra35/Python-Advance-Scipts) |
 
 </div>
 
@@ -91,11 +92,50 @@ me.say_hi()
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=najeebra35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najeebra35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" height="165"/>
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=najeebra35&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)](https://git.io/streak-stats)
+
+<br/>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najeebra35&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najeebra35/najeebra35/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najeebra35/najeebra35/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/najeebra35/najeebra35/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🧰 Skills Overview
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgresql,git,github,vscode,bootstrap,linux,postman&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Najeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najeebra35&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -121,5 +161,7 @@ me.say_hi()
 <br/><br/>
 
 ⭐ **If you find my work helpful, consider giving my repos a star — it means a lot!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
