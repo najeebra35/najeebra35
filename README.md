@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,100:1a1b27&text=Najeeb%20Rahman&fontColor=ffffff&fontSize=42&animation=twinkling&desc=Django%20and%20Python%20Developer&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Najeeb%20Rahman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Django%20and%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Najeeb+👋;Django+%26+Python+Developer;Building+Scalable+Web+Applications;Backend+Enthusiast+%7C+Problem+Solver;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
