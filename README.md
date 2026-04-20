@@ -26,7 +26,7 @@ class NajeebRahman:
         self.email      = "najeebra35@gmail.com"
         self.languages  = ["Python", "JavaScript", "HTML", "CSS"]
         self.frameworks = ["Django", "Bootstrap"]
-        self.databases  = ["PostgreSQL", "SQLite"]
+        self.databases  = ["MySQL", "SQLite"]
         self.tools      = ["Git", "GitHub", "VS Code"]
         self.focus      = "Building clean, efficient backend systems"
 
