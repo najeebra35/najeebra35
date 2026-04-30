@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Najeeb+👋;Django+%26+Python+Developer;Building+Scalable+Web+Applications;Backend+Enthusiast+%7C+Problem+Solver;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=najeebra35&color=blue)
+
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=najeebra35.najeebra35&left_color=royalblue&right_color=36BCF7" />
   <img src="https://img.shields.io/github/followers/najeebra35?label=Followers&style=flat&color=36BCF7&labelColor=1a1b27" />
